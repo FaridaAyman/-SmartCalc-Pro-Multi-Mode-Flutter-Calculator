@@ -100,31 +100,6 @@ Make sure you have installed:
 - Android Studio / VS Code with Flutter extensions
 - Emulator or physical device connected
 
-### 🪄 Steps to Run
-
-1️⃣ **Open the project**
-```bash
-code .
-
-
-2️⃣ Install Dependencies
-
-Run the following command to install all required packages:
-
-flutter pub get
-
-3️⃣ Run on an Emulator or Device
-
-Start the app using:
-
-flutter run
-
-4️⃣ Build for Release
-
-To generate a release version of the app (APK):
-
-flutter build apk
-
 🧠 How It Works
 🔹 Input Handling
 
@@ -154,22 +129,22 @@ Uses custom logic for accurate bitwise transformations.
 
 Designed for developers and computer science students.
 
-## 🖼️ Screenshots
+🖼️ Screenshots
+🧮 Mode	📝 Description	🖼️ Preview
+Basic	Simple arithmetic layout	(Add image here)
+Scientific	Advanced functions for students	(Add image here)
+Programmer	Binary, Hex, and Bitwise operations	(Add image here)
+🎯 Future Enhancements
 
-| 🧮 **Mode** | 📝 **Description** | 🖼️ **Preview** |
-|--------------|--------------------|----------------|
-| **Basic** | Simple arithmetic layout | *(Add image here)* |
-| **Scientific** | Advanced functions for students | *(Add image here)* |
-| **Programmer** | Binary, Hex, and Bitwise operations | *(Add image here)* |
+🧮 Add Graphing Mode for function visualization.
 
-## 🎯 Future Enhancements
-- 🧮 **Add Graphing Mode** for function visualization.  
-- 🧭 **Add Unit Conversion Mode** (length, weight, temperature, etc.).  
-- 📊 **Add History Panel** to review previous calculations.  
-- 🌐 **Add Localization** for multi-language support.  
-- 💾 **Add Saved Results & Settings** using SharedPreferences.  
+🧭 Add Unit Conversion Mode (length, weight, temperature, etc.).
 
----
+📊 Add History Panel to review previous calculations.
+
+🌐 Add Localization for multi-language support.
+
+💾 Add Saved Results & Settings using SharedPreferences.
 
 🤝 Contribution Guide
 
@@ -208,33 +183,15 @@ Custom Widgets & Logic Files
 This project is licensed under the MIT License.
 You’re free to use, modify, and distribute it with proper attribution.
 
- ## 🧑‍💻 Author
-  
-- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
-- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
-- **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
+🧑‍💻 Authors
 
----
+Farida Ayman → GitHub Profile
 
-💡 Passionate about Flutter, AI, and innovative mobile app development.
-📬 Reach me on GitHub or LinkedIn for collaborations.
-----
-⭐ *If you like this project, don't forget to star the repository!*
---
+Nada Attia → GitHub Profile
 
-
- ## 🧑‍💻 Author
-  
-- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
-- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
-- **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
-
----
+Rodina Ahmed → GitHub Profile
 
 💡 Passionate about Flutter, AI, and innovative mobile app development.
-📬 Reach me on GitHub or LinkedIn for collaborations.
-----
-⭐ *If you like this project, don't forget to star the repository!*
---
+📬 Reach us on GitHub or LinkedIn for collaborations.
 
-
+⭐ If you like this project, don’t forget to star the repository.
