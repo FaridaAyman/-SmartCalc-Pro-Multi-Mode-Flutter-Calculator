@@ -1,7 +1,7 @@
 # 🧮 SmartCalc Pro – Multi-Mode Flutter Calculator
 
 ## 📖 Overview
-**SmartCalc Pro** is a full-featured, modern, and intuitive calculator application built with **Flutter**.  
+**SmartCalc Pro** is a full-featured, modern, and intuitive calculator application built with **Flutter**  
 Unlike traditional calculators, SmartCalc Pro offers **three powerful modes** — Basic, Scientific, and Programmer — all integrated into one sleek and user-friendly interface.
 
 The app provides **real-time calculations**, **instant number system conversions**, and **dynamic layouts** that adapt to any screen size — whether mobile, tablet, or desktop.  
