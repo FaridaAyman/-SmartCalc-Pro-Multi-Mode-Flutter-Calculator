@@ -7,6 +7,8 @@ Unlike traditional calculators, SmartCalc Pro offers **three powerful modes** �
 The app provides **real-time calculations**, **instant number system conversions**, and **dynamic layouts** that adapt to any screen size — whether mobile, tablet, or desktop.  
 It’s ideal for **students**, **engineers**, **programmers**, and **everyday users** who need accurate and efficient calculations.
 
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/12fd9cb3-ec28-4a3a-bc71-9b1ce515a286" />
+
 ---
 
 ## 🌟 Key Objectives
