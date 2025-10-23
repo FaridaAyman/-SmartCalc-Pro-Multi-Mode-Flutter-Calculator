@@ -223,3 +223,18 @@ You’re free to use, modify, and distribute it with proper attribution.
 --
 
 
+ ## 🧑‍💻 Author
+  
+- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
+- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
+- **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
+
+---
+
+💡 Passionate about Flutter, AI, and innovative mobile app development.
+📬 Reach me on GitHub or LinkedIn for collaborations.
+----
+⭐ *If you like this project, don't forget to star the repository!*
+--
+
+
