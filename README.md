@@ -121,7 +121,9 @@ Mathematical expressions are computed using Dart’s math library and custom log
 ### 🔹 **Programmer Conversions**
 - Decimal input is converted instantly to **Binary**, **Octal**, and **Hexadecimal**.  
 - Uses custom logic for accurate bitwise transformations.  
-- Designed for developers and computer science students.  
+- Designed for developers and computer science students.
+  <img width="1900" height="991" alt="image" src="https://github.com/user-attachments/assets/4b05b228-057b-4216-a570-aebb07013a79" />
+
 
 ---
 
@@ -146,7 +148,7 @@ Mathematical expressions are computed using Dart’s math library and custom log
 ---
 
 # 🤝 **Contribution Guide**
-
+--
 Contributions are **welcome and appreciated!**
 
 1. **Fork** the repository  
@@ -163,6 +165,7 @@ Push your branch and submit a Pull Request
 ✅ Make sure your code follows Flutter best practices and includes clear documentation.
 
 ##🧰 Tools & Technologies
+--
   -Flutter 3.x  
   -Dart
   -Material Design 3
@@ -170,11 +173,12 @@ Push your branch and submit a Pull Request
   -Custom Widgets & Logic Files
 
 ##🪪 License
+--
 This project is licensed under the MIT License.
 You’re free to use, modify, and distribute it with proper attribution.
 
 ## 🧑‍💻 Author
-  
+--
 - **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
 - **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
 - **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
