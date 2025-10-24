@@ -133,9 +133,9 @@ Mathematical expressions are computed using Dart’s math library and custom log
 
 | 🧮 **Mode** | 📝 **Description** | 🖼️ **Preview** |
 |--------------|--------------------|----------------|
-| **Basic** | Simple arithmetic layout | *(Add image here)* |
-| **Scientific** | Advanced functions for students | *(Add image here)* |
-| **Programmer** | Binary, Hex, and Bitwise operations | *(Add image here)* |
+| **Basic** | Simple arithmetic layout | ![Basic](images/basic.png) |
+| **Scientific** | Advanced functions for students | ![Scientific](images/scientific.png) |
+| **Programmer** | Binary, Hex, and Bitwise operations | ![Programmer](images/programmer.png) |
 
 ---
 
