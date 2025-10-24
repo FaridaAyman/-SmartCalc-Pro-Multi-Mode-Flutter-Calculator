@@ -42,8 +42,6 @@ The main goal of SmartCalc Pro is to **create a unified calculator app** that me
 - Bitwise operations: AND, OR, XOR, NOT, Shift Left, Shift Right.
 - Built-in input validation to ensure correct data entry.
 - Great for developers and digital electronics students.
-  <img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/780ca1c6-7079-43c1-9d5f-a6feabb60088" />
-
 
 ---
 
@@ -65,6 +63,7 @@ The app follows the **MVVM (Model-View-ViewModel)** structure for clarity and sc
 - **GridView** layout for keypad buttons.
 - Smooth transitions and animations between calculator screens.
 - Consistent color palette and typography.
+<img width="1884" height="997" alt="777" src="https://github.com/user-attachments/assets/1844558c-15da-4c20-99b4-ba8a4a56b7eb" />
 
 ---
 
@@ -124,7 +123,6 @@ Mathematical expressions are computed using Dart’s math library and custom log
 - Decimal input is converted instantly to **Binary**, **Octal**, and **Hexadecimal**.  
 - Uses custom logic for accurate bitwise transformations.  
 - Designed for developers and computer science students.
-  <img width="1900" height="991" alt="image" src="https://github.com/user-attachments/assets/4b05b228-057b-4216-a570-aebb07013a79" />
 
 
 ---
@@ -133,12 +131,9 @@ Mathematical expressions are computed using Dart’s math library and custom log
 
 | 🧮 **Mode** | 📝 **Description** | 🖼️ **Preview** |
 |--------------|--------------------|----------------|
-| **Basic** | Simple arithmetic layout | ![Basic](<img width="1887" height="1004" alt="333" src="https://github.com/user-attachments/assets/dfa89bda-50dc-4285-a45c-88d7ab087438" />
-) |
-| **Scientific** | Advanced functions for students | ![Scientific](<img width="1917" height="1006" alt="444" src="https://github.com/user-attachments/assets/7c17cad8-af07-4b3a-9e9e-ba923b2403a9" />
-) |
-| **Programmer** | Binary, Hex, and Bitwise operations | ![Programmer](<img width="1900" height="1001" alt="555555" src="https://github.com/user-attachments/assets/ba34e08b-4ace-4cf7-8b4e-43318d24d796" />
-) |
+| **Basic** | Simple arithmetic layout | ![Basic]<img width="1887" height="1004" alt="333" src="https://github.com/user-attachments/assets/dfa89bda-50dc-4285-a45c-88d7ab087438" />|
+| **Scientific** | Advanced functions for students | ![Scientific]<img width="1917" height="1006" alt="444" src="https://github.com/user-attachments/assets/7c17cad8-af07-4b3a-9e9e-ba923b2403a9" /> |
+| **Programmer** | Binary, Hex, and Bitwise operations | ![Programmer]<img width="1900" height="1001" alt="555555" src="https://github.com/user-attachments/assets/ba34e08b-4ace-4cf7-8b4e-43318d24d796" /> |
 
 ---
 
