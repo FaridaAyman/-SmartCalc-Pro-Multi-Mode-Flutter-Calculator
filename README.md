@@ -162,29 +162,24 @@ Push your branch and submit a Pull Request
 
 ✅ Make sure your code follows Flutter best practices and includes clear documentation.
 
-🧰 Tools & Technologies
-Flutter 3.x
+##🧰 Tools & Technologies
+  -Flutter 3.x  
+  -Dart
+  -Material Design 3
+  -math.dart (for calculations)
+  -Custom Widgets & Logic Files
 
-Dart
-
-Material Design 3
-
-math.dart (for calculations)
-
-Custom Widgets & Logic Files
-
-🪪 License
+##🪪 License
 This project is licensed under the MIT License.
 You’re free to use, modify, and distribute it with proper attribution.
 
 🧑‍💻 Authors
+--
 Farida Ayman → GitHub Profile
-
 Nada Attia → GitHub Profile
-
 Rodina Ahmed → GitHub Profile
-
+---
 💡 Passionate about Flutter, AI, and innovative mobile app development.
 📬 Reach us on GitHub or LinkedIn for collaborations.
-
+---
 ⭐ If you like this project, don’t forget to star the repository.
