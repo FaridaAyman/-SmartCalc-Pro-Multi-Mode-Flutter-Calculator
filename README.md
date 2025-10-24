@@ -173,13 +173,11 @@ Push your branch and submit a Pull Request
 This project is licensed under the MIT License.
 You’re free to use, modify, and distribute it with proper attribution.
 
-🧑‍💻 Authors
---
-Farida Ayman → GitHub Profile
-Nada Attia → GitHub Profile
-Rodina Ahmed → GitHub Profile
----
-💡 Passionate about Flutter, AI, and innovative mobile app development.
-📬 Reach us on GitHub or LinkedIn for collaborations.
+## 🧑‍💻 Author
+  
+- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
+- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
+- **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
+
 ---
 ⭐ If you like this project, don’t forget to star the repository.
