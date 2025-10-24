@@ -133,7 +133,7 @@ Mathematical expressions are computed using Dart’s math library and custom log
 
 | 🧮 **Mode** | 📝 **Description** | 🖼️ **Preview** |
 |--------------|--------------------|----------------|
-| **Basic** | Simple arithmetic layout | ![Basic](images/basic.png) |
+| **Basic** | Simple arithmetic layout | ![Basic]C:\Users\FARIDA\Desktop\333.png |
 | **Scientific** | Advanced functions for students | ![Scientific](images/scientific.png) |
 | **Programmer** | Binary, Hex, and Bitwise operations | ![Programmer](images/programmer.png) |
 
