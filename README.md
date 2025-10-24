@@ -100,74 +100,69 @@ Make sure you have installed:
 - Android Studio / VS Code with Flutter extensions
 - Emulator or physical device connected
 
-🧠 How It Works
-🔹 Input Handling
+# 🧠 **How It Works**
 
+### 🔹 **Input Handling**
 Each key press (button tap) is processed through the controller that:
+- Appends input to the expression string.  
+- Validates it to prevent invalid sequences (like multiple operators).  
+- Automatically evaluates results for real-time display.  
 
-Appends input to the expression string.
+---
 
-Validates it to prevent invalid sequences (like multiple operators).
-
-Automatically evaluates results for real-time display.
-
-🔹 Expression Evaluation
-
+### 🔹 **Expression Evaluation**
 Mathematical expressions are computed using Dart’s math library and custom logic:
+- Supports **PEMDAS rule** (Parentheses, Exponents, Multiplication/Division, Addition/Subtraction).  
+- Handles floating-point precision errors.  
+- Provides instant evaluation for smoother UX.  
 
-Supports PEMDAS rule (Parentheses, Exponents, Multiplication/Division, Addition/Subtraction).
+---
 
-Handles floating-point precision errors.
+### 🔹 **Programmer Conversions**
+- Decimal input is converted instantly to **Binary**, **Octal**, and **Hexadecimal**.  
+- Uses custom logic for accurate bitwise transformations.  
+- Designed for developers and computer science students.  
 
-Provides instant evaluation for smoother UX.
+---
 
-🔹 Programmer Conversions
+# 🖼️ **Screenshots**
 
-Decimal input is converted instantly to Binary, Octal, and Hexadecimal.
+| 🧮 **Mode** | 📝 **Description** | 🖼️ **Preview** |
+|--------------|--------------------|----------------|
+| **Basic** | Simple arithmetic layout | *(Add image here)* |
+| **Scientific** | Advanced functions for students | *(Add image here)* |
+| **Programmer** | Binary, Hex, and Bitwise operations | *(Add image here)* |
 
-Uses custom logic for accurate bitwise transformations.
+---
 
-Designed for developers and computer science students.
+# 🎯 **Future Enhancements**
 
-🖼️ Screenshots
-🧮 Mode	📝 Description	🖼️ Preview
-Basic	Simple arithmetic layout	(Add image here)
-Scientific	Advanced functions for students	(Add image here)
-Programmer	Binary, Hex, and Bitwise operations	(Add image here)
-🎯 Future Enhancements
+- 🧮 **Add Graphing Mode** — for function visualization.  
+- 🧭 **Add Unit Conversion Mode** — length, weight, temperature, etc.  
+- 📊 **Add History Panel** — to review previous calculations.  
+- 🌐 **Add Localization** — for multi-language support.  
+- 💾 **Add Saved Results & Settings** — using SharedPreferences.  
 
-🧮 Add Graphing Mode for function visualization.
+---
 
-🧭 Add Unit Conversion Mode (length, weight, temperature, etc.).
+# 🤝 **Contribution Guide**
 
-📊 Add History Panel to review previous calculations.
+Contributions are **welcome and appreciated!**
 
-🌐 Add Localization for multi-language support.
-
-💾 Add Saved Results & Settings using SharedPreferences.
-
-🤝 Contribution Guide
-
-Contributions are welcome and appreciated!
-
-Fork the repository
-
-Create a new branch
-
-git checkout -b feature-name
-
-
+1. **Fork** the repository  
+2. **Create a new branch**  
+   ```bash
+   git checkout -b feature-name
 Make your edits and commit
 
+bash
+Copy code
 git commit -m "Added new feature"
-
-
 Push your branch and submit a Pull Request
 
 ✅ Make sure your code follows Flutter best practices and includes clear documentation.
 
 🧰 Tools & Technologies
-
 Flutter 3.x
 
 Dart
@@ -179,12 +174,10 @@ math.dart (for calculations)
 Custom Widgets & Logic Files
 
 🪪 License
-
 This project is licensed under the MIT License.
 You’re free to use, modify, and distribute it with proper attribution.
 
 🧑‍💻 Authors
-
 Farida Ayman → GitHub Profile
 
 Nada Attia → GitHub Profile
