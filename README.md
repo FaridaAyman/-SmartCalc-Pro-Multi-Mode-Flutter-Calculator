@@ -42,6 +42,8 @@ The main goal of SmartCalc Pro is to **create a unified calculator app** that me
 - Bitwise operations: AND, OR, XOR, NOT, Shift Left, Shift Right.
 - Built-in input validation to ensure correct data entry.
 - Great for developers and digital electronics students.
+  <img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/780ca1c6-7079-43c1-9d5f-a6feabb60088" />
+
 
 ---
 
@@ -178,7 +180,7 @@ This project is licensed under the MIT License.
 You’re free to use, modify, and distribute it with proper attribution.
 
 ## 🧑‍💻 Author
---
+
 - **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
 - **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
 - **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
